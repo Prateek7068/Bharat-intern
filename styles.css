@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin-bottom: 10px;
+}
+
+#transactions {
+    margin-top: 20px;
+}
+
+.transaction {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+.transaction:last-child {
+    border-bottom: none;
+}
